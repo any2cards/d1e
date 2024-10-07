@@ -19,7 +19,6 @@ This repository contains data and images for the following games and components:
 - dungeons
 - feats
 - heroes
-- heroes-promo
 - incidents
 - lieutenants
 - locations
