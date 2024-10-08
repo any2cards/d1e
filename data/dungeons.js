@@ -308,7 +308,7 @@
     "xws": "44theicetunnels"
   },
   {
-    "name": "geons back",
+    "name": "dungeons back",
     "points": "44",
     "expansion": "Road To Legend",
     "image": "dungeons/rtl-dungeons-back.png",
@@ -525,7 +525,7 @@
     "xws": "74thelastrefuge"
   },
   {
-    "name": "geons back",
+    "name": "dungeons back",
     "points": "75",
     "expansion": "Sea Of Blood",
     "image": "dungeons/sob-dungeons-back.png",
