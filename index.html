@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>D1e Card Viewer - Test Page</title>
+		<meta charset="utf-8">
+		<!--
+		<script src="https://code.jquery.com/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		-->
+		<script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+		<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/font-awesome.min.css" -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+			.cdcRed {
+				color:red;
+			}
+			.accordion {
+				padding-left: 40px;
+			}
+			h1 .fa, h2 .fa, h3 .fa {
+				font-size: 10px;
+			}
+			.TextZone {
+				//to be used for custom display of the text;
+				padding-left: 40px;
+			}
+			.title {
+				top: 0;
+				left: 0;
+				position: fixed;
+				font-size: 10px;
+				padding: 5px;
+				margin: 5px 0 0 5px;
+				border-radius: 5px;
+				text-align: center;
+				border: 1px solid #9999ff;
+				background-color: #dddddd;
+			}
+			.table-padded td {
+				padding: 0px 20px 0px 30px;
+			}
+		</style>
+		<script>
+			// at statup hide all
+			function Initialize(){
+				var $accordionIO = $('.accordion h1, h2, h3');
+				$accordionIO.next('div').hide();
+
+				$(".accordion h1, h2, h3").click(function() {
+					//catch icon to switch from + to - and the opposite
+					var Icon = $(this).children().first();
+
+					//catch zone do expand collapse
+					var LinkedTextZone = $(this).next();
+
+					if (Icon.hasClass('fa-plus')) {
+						//switch icon from + to -
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+						//expand text Zone
+						LinkedTextZone.slideDown();
+					}
+					else {
+						//switch icon from - to +
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+						//collapse text Zone
+						LinkedTextZone.slideUp();
+					}
+				})
+				$(".title").click(function() {
+					var Icon = $(this).children().first();
+					var $AllTextZones = $('.accordion h1, h2, h3');
+					if (Icon.hasClass('fa-minus')) {
+						//switch all icons from + to -
+						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+
+						//expand all
+						$AllTextZones.next('div').slideDown();
+					}
+					else {
+						//switch all icons from - to +
+						$('.fa-minus').removeClass('fa-minus').addClass('fa-plus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+
+						//collapse all
+						$AllTextZones.next('div').slideUp();
+					}
+				})
+			}
+		</script>
+	</head>
+	<body onload="Initialize()">
+		<div class="title">
+			<i class="fa fa-minus"></i>
+			<br />
+			to All
+		</div>
+
+        <h1 align="center"> D1e Card Viewer - Test Page</h1>
+        <h1 align="center" class="cdcRed"> 		Community Driven Content: Entire Sections or Individual Entries Appear in RED Text </h1>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Avatars </h1>
+			<div class="TextZone">
+				<table class="table-padded">
+					<tr><td>Avatars Back</td></tr>
+					<tr><td>&nbsp</td></tr>
+					<tr><td>The Beastman Lord</td><td>The Titan           </td></tr>
+					<tr><td>The Demon Prince </td><td>Captain Bones       </td></tr>
+					<tr><td>The Great Wyrm   </td><td>Master Of The Hunt  </td></tr>
+					<tr><td>The Sorcerer King</td><td>Mistress Of Serpents</td></tr>
+					<tr><td>The Spider Queen </td><td>The Count           </td></tr>
+				</table>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1 class="cdcRed"><i class="fa fa-plus"></i> Avatar Upgrades </h1>
+			<div class="TextZone">
+				<table class="table-padded">
+					<tr><td>Any Avatar             </td><td>Beastman Lord Only       </td><td>Demon Prince Only </td><td>Great Wyrm Only   </td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Big Trouble            </td><td>Bloodthirst              </td><td>Aura Of Pain      </td><td>Deadly Claws      </td></tr>
+					<tr><td>Dark Strength          </td><td>Shadow Clones            </td><td>Banefire          </td><td>Diamond Scales    </td></tr>
+					<tr><td>Eldritch Lore          </td><td>Wraithform               </td><td>Endless Hunger    </td><td>Dragonfear        </td></tr>
+					<tr><td>Enhanced Speed         </td><td>&nbsp                    </td><td>Soul Barrier      </td><td>The Elder Race    </td></tr>
+					<tr><td>Focused                </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Lawlessness            </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Protective Magics      </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Siege Engines          </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Toughened              </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Transport Gem          </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Sorcerer King Only     </td><td>Spider Queen Only        </td><td>Titan Only        </td><td>Captain Bones Only</td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Arcane Energies        </td><td>Acidic Poison            </td><td>Desperate Strength</td><td>Death Head        </td></tr>
+					<tr><td>Phylactery             </td><td>Into My Parlour          </td><td>Fiery Armor       </td><td>Ghost Cannons     </td></tr>
+					<tr><td>Snipers                </td><td>Spider's Nest            </td><td>Greater Ogres     </td><td>Spirit Fog        </td></tr>
+					<tr><td>Soul Ward              </td><td>Spirit Drain             </td><td>Mountain Giants   </td><td>Will To Live      </td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Master Of The Hunt Only</td><td>Mistress of Serpents Only</td><td>The Count Only    </td><td>&nbsp             </td></tr>
+					<tr><td>&nbsp                  </td><td>&nbsp                    </td><td>&nbsp             </td><td>&nbsp             </td></tr>
+					<tr><td>Helm Of The Night      </td><td>Acidic Mists             </td><td>Bloodsuckers      </td><td>&nbsp             </td></tr>
+					<tr><td>Hounds Of War          </td><td>Shed Skin                </td><td>Corrupting Bite   </td><td>&nbsp             </td></tr>
+					<tr><td>Sound The Horn         </td><td>Snake Eyes               </td><td>Energy Drain      </td><td>&nbsp             </td></tr>
+					<tr><td>The Black Bow          </td><td>Steel Coils              </td><td>Mist Form         </td><td>&nbsp             </td></tr>
+				</table>
+			</div>
+		</div>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Bottom Page Bug Fixer </h1>
+			<div class="TextZone">
+				<ul>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+					<li> </li>
+				</ul>
+			</div>
+		</div>
+
+	</body>
+</html>
