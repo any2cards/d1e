@@ -8,6 +8,13 @@ This repository contains data and images for the following games and components:
 
 **Games:**
 - Descent 1st Edition (D1e)
+	- Base Game
+	- Well Of Darkness
+	- Altar Of Despair
+	- Road To Legend
+	- Tomb Of Ice
+	- Sea Of Blood
+	- Promos
 - User Community
 	- Enduring Evil
 
