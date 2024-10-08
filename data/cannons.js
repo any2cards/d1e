@@ -1,10 +1,10 @@
 [
   {
-    "name": "coldsteel cannons",
+    "name": "coldsteel cannon",
     "points": "0",
     "expansion": "Sea Of Blood",
-    "image": "cannons/sob-coldsteel-cannons.png",
-    "xws": "coldsteelcannons"
+    "image": "cannons/sob-coldsteel-cannon.png",
+    "xws": "coldsteelcannon"
   },
   {
     "name": "dragonfire cannon",
