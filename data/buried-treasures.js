@@ -21,21 +21,21 @@
     "xws": "forgottentreasures"
   },
   {
-    "name": "rogers lucky doubloon",
+    "name": "roger's lucky doubloon",
     "points": "3",
     "expansion": "Sea Of Blood",
     "image": "buried-treasures/sob-rogers-lucky-doubloon.png",
     "xws": "rogersluckydoubloon"
   },
   {
-    "name": "rogers mother lode",
+    "name": "roger's mother lode",
     "points": "4",
     "expansion": "Sea Of Blood",
     "image": "buried-treasures/sob-rogers-mother-lode.png",
     "xws": "rogersmotherlode"
   },
   {
-    "name": "rogers stash",
+    "name": "roger's stash",
     "points": "5",
     "expansion": "Sea Of Blood",
     "image": "buried-treasures/sob-rogers-stash.png",
