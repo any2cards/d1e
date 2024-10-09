@@ -224,7 +224,7 @@
     "xws": "thewyrmturns"
   },
   {
-    "name": "throgs bandits",
+    "name": "throg's bandits",
     "points": "32",
     "expansion": "Road To Legend",
     "image": "incidents/rtl-throgs-bandits.png",
@@ -245,7 +245,7 @@
     "xws": "trollbridge"
   },
   {
-    "name": "two headed giant",
+    "name": "two-headed giant",
     "points": "35",
     "expansion": "Road To Legend",
     "image": "incidents/rtl-two-headed-giant.png",
