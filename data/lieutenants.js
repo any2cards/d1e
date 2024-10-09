@@ -196,7 +196,7 @@
     "xws": "sweetheartback"
   },
   {
-    "name": " daggertooth sharks",
+    "name": "daggertooth sharks",
     "points": "28",
     "expansion": "Sea Of Blood",
     "image": "lieutenants/sob-daggertooth-sharks.png",
