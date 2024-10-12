@@ -1456,18 +1456,18 @@
     "xws": "shadespooks"
   },
   {
-    "name": "sneak up on they prey",
+    "name": "sneak up on the prey",
     "points": "208",
     "expansion": "Tomb Of Ice",
-    "image": "overlord-decks/toi-sneak-up-on-they-prey1.png",
-    "xws": "sneakupontheyprey"
+    "image": "overlord-decks/toi-sneak-up-on-the-prey1.png",
+    "xws": "sneakupontheprey"
   },
   {
-    "name": "sneak up on they prey",
+    "name": "sneak up on the prey",
     "points": "209",
     "expansion": "Tomb Of Ice",
-    "image": "overlord-decks/toi-sneak-up-on-they-prey2.png",
-    "xws": "sneakupontheyprey"
+    "image": "overlord-decks/toi-sneak-up-on-the-prey2.png",
+    "xws": "sneakupontheprey"
   },
   {
     "name": "spell of thunder",
