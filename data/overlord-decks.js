@@ -1407,11 +1407,11 @@
     "xws": "lonemedusa"
   },
   {
-    "name": "master medusa",
+    "name": "mother medusa",
     "points": "201",
     "expansion": "Tomb Of Ice",
-    "image": "overlord-decks/toi-master-medusa.png",
-    "xws": "mastermedusa"
+    "image": "overlord-decks/toi-mother-medusa.png",
+    "xws": "mothermedusa"
   },
   {
     "name": "overlord decks normal back",
