@@ -7,11 +7,11 @@
     "xws": "01collapsedcolumns"
   },
   {
-    "name": "the alchemists lab",
+    "name": "alchemist lab",
     "points": "1",
     "expansion": "Road To Legend",
-    "image": "dungeons/rtl-02-the-alchemists-lab.png",
-    "xws": "02thealchemistslab"
+    "image": "dungeons/rtl-02-alchemist-lab.png",
+    "xws": "02alchemistlab"
   },
   {
     "name": "dragon's lair",
