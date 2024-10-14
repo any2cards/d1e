@@ -168,10 +168,10 @@
     "xws": "cleaving"
   },
   {
-    "name": "crack shot",
+    "name": "crackshot",
     "points": "24",
     "expansion": "Base Game",
-    "image": "skills/bg-crack-shot.png",
+    "image": "skills/bg-crackshot.png",
     "xws": "crackshot"
   },
   {
