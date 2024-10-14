@@ -280,17 +280,17 @@
     "xws": "ceramicarmor"
   },
   {
-    "name": "chainmail",
+    "name": "chain mail",
     "points": "40",
     "expansion": "Enduring Evil",
-    "image": "shop-items/ee-chainmail1.png",
+    "image": "shop-items/ee-chain-mail1.png",
     "xws": "chainmail"
   },
   {
-    "name": "chainmail",
+    "name": "chain mail",
     "points": "41",
     "expansion": "Enduring Evil",
-    "image": "shop-items/ee-chainmail2.png",
+    "image": "shop-items/ee-chain-mail2.png",
     "xws": "chainmail"
   },
   {
