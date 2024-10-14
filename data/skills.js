@@ -182,11 +182,11 @@
     "xws": "deflectarrows"
   },
   {
-    "name": "devine retribution",
+    "name": "divine retribution",
     "points": "26",
     "expansion": "Base Game",
-    "image": "skills/bg-devine-retribution.png",
-    "xws": "devineretribution"
+    "image": "skills/bg-divine-retribution.png",
+    "xws": "divineretribution"
   },
   {
     "name": "enduring",
