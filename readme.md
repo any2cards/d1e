@@ -73,7 +73,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [D1e Asset Viewer](https://chromewebstore.google.com/detail/d1e-asset-viewer/eogijhlgecmaiggclkhhoffcechggfml) (Chrome Extension)
+- [D1e Asset Viewer](https://chromewebstore.google.com/detail/d1e-asset-viewer/bikcgfimmomcdcealiecnjlbcppifcbm) (Chrome Extension)
 
 ## Versioning
 
