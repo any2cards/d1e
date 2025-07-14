@@ -23,19 +23,20 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"bg": "Base Game",
-	"wod": "Well Of Darkness",
-	"aod": "Altar Of Despair",
-	"rtl": "Road To Legend",
-	"toi": "Tomb Of Ice",
-	"sob": "Sea Of Blood",
-	"pr": "Promos",
-	"ee": "Enduring Evil",
+	"bg": "base game",
+	"wod": "well of darkness",
+	"aod": "altar of despair",
+	"rtl": "road to legend",
+	"toi": "tomb of ice",
+	"sob": "sea of blood",
+	"pr": "promos",
+	"ee": "enduring evil",
 };
 
 var expansion_card_type = {}
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/d1e/master';
+//const repoBaseUrl = '';
 const imgUrl = `${repoBaseUrl}/images/`;
 const dataUrl = `${repoBaseUrl}/data/`;
 

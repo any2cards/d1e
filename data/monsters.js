@@ -1,2830 +1,2130 @@
 [
   {
-    "name": "blood ape",
-    "points": "0",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-2-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "1",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-2-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "2",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-2-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "3",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-2-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "troll",
-    "points": "4",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-2-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "blood ape",
-    "points": "5",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-3-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "6",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-3-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "7",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-3-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "8",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-3-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "troll",
-    "points": "9",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-3-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "blood ape",
-    "points": "10",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-4-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "11",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-4-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "12",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-4-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "13",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-4-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "troll",
-    "points": "14",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-4-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "blood ape",
-    "points": "15",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-5-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "16",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-5-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "17",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-5-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "18",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-5-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "troll",
-    "points": "19",
-    "expansion": "Altar Of Despair",
-    "image": "monsters/aod-5-troll.png",
-    "xws": "troll"
-  },
-  {
     "name": "bane spider",
-    "points": "20",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-bane-spider.png",
+    "points": 0,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-bane-spider.png",
     "xws": "banespider"
   },
   {
     "name": "beastman",
-    "points": "21",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-beastman.png",
+    "points": 1,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-beastman.png",
     "xws": "beastman"
   },
   {
     "name": "demon",
-    "points": "22",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-demon.png",
+    "points": 2,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-demon.png",
     "xws": "demon"
   },
   {
     "name": "dragon",
-    "points": "23",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-dragon.png",
+    "points": 3,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-dragon.png",
     "xws": "dragon"
   },
   {
     "name": "giant",
-    "points": "24",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-giant.png",
+    "points": 4,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-giant.png",
     "xws": "giant"
   },
   {
     "name": "hell hound",
-    "points": "25",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-hell-hound.png",
+    "points": 5,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-hell-hound.png",
     "xws": "hellhound"
   },
   {
     "name": "manticore",
-    "points": "26",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-manticore.png",
+    "points": 6,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-manticore.png",
     "xws": "manticore"
   },
   {
     "name": "naga",
-    "points": "27",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-naga.png",
+    "points": 7,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-naga.png",
     "xws": "naga"
   },
   {
     "name": "ogre",
-    "points": "28",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-ogre.png",
+    "points": 8,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-ogre.png",
     "xws": "ogre"
   },
   {
     "name": "razorwing",
-    "points": "29",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-razorwing.png",
+    "points": 9,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-razorwing.png",
     "xws": "razorwing"
   },
   {
     "name": "skeleton",
-    "points": "30",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-skeleton.png",
+    "points": 10,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-skeleton.png",
     "xws": "skeleton"
   },
   {
     "name": "sorcerer",
-    "points": "31",
-    "expansion": "Base Game",
-    "image": "monsters/bg-2-sorcerer.png",
+    "points": 11,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/2/bg-2-sorcerer.png",
     "xws": "sorcerer"
   },
   {
     "name": "bane spider",
-    "points": "32",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-bane-spider.png",
+    "points": 12,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-bane-spider.png",
     "xws": "banespider"
   },
   {
     "name": "beastman",
-    "points": "33",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-beastman.png",
+    "points": 13,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-beastman.png",
     "xws": "beastman"
   },
   {
     "name": "demon",
-    "points": "34",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-demon.png",
+    "points": 14,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-demon.png",
     "xws": "demon"
   },
   {
     "name": "dragon",
-    "points": "35",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-dragon.png",
+    "points": 15,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-dragon.png",
     "xws": "dragon"
   },
   {
     "name": "giant",
-    "points": "36",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-giant.png",
+    "points": 16,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-giant.png",
     "xws": "giant"
   },
   {
     "name": "hell hound",
-    "points": "37",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-hell-hound.png",
+    "points": 17,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-hell-hound.png",
     "xws": "hellhound"
   },
   {
     "name": "manticore",
-    "points": "38",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-manticore.png",
+    "points": 18,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-manticore.png",
     "xws": "manticore"
   },
   {
     "name": "naga",
-    "points": "39",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-naga.png",
+    "points": 19,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-naga.png",
     "xws": "naga"
   },
   {
     "name": "ogre",
-    "points": "40",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-ogre.png",
+    "points": 20,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-ogre.png",
     "xws": "ogre"
   },
   {
     "name": "razorwing",
-    "points": "41",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-razorwing.png",
+    "points": 21,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-razorwing.png",
     "xws": "razorwing"
   },
   {
     "name": "skeleton",
-    "points": "42",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-skeleton.png",
+    "points": 22,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-skeleton.png",
     "xws": "skeleton"
   },
   {
     "name": "sorcerer",
-    "points": "43",
-    "expansion": "Base Game",
-    "image": "monsters/bg-3-sorcerer.png",
+    "points": 23,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/3/bg-3-sorcerer.png",
     "xws": "sorcerer"
   },
   {
     "name": "bane spider",
-    "points": "44",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-bane-spider.png",
+    "points": 24,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-bane-spider.png",
     "xws": "banespider"
   },
   {
     "name": "beastman",
-    "points": "45",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-beastman.png",
+    "points": 25,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-beastman.png",
     "xws": "beastman"
   },
   {
     "name": "demon",
-    "points": "46",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-demon.png",
+    "points": 26,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-demon.png",
     "xws": "demon"
   },
   {
     "name": "dragon",
-    "points": "47",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-dragon.png",
+    "points": 27,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-dragon.png",
     "xws": "dragon"
   },
   {
     "name": "giant",
-    "points": "48",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-giant.png",
+    "points": 28,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-giant.png",
     "xws": "giant"
   },
   {
     "name": "hell hound",
-    "points": "49",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-hell-hound.png",
+    "points": 29,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-hell-hound.png",
     "xws": "hellhound"
   },
   {
     "name": "manticore",
-    "points": "50",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-manticore.png",
+    "points": 30,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-manticore.png",
     "xws": "manticore"
   },
   {
     "name": "naga",
-    "points": "51",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-naga.png",
+    "points": 31,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-naga.png",
     "xws": "naga"
   },
   {
     "name": "ogre",
-    "points": "52",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-ogre.png",
+    "points": 32,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-ogre.png",
     "xws": "ogre"
   },
   {
     "name": "razorwing",
-    "points": "53",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-razorwing.png",
+    "points": 33,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-razorwing.png",
     "xws": "razorwing"
   },
   {
     "name": "skeleton",
-    "points": "54",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-skeleton.png",
+    "points": 34,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-skeleton.png",
     "xws": "skeleton"
   },
   {
     "name": "sorcerer",
-    "points": "55",
-    "expansion": "Base Game",
-    "image": "monsters/bg-4-sorcerer.png",
+    "points": 35,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/4/bg-4-sorcerer.png",
     "xws": "sorcerer"
   },
   {
     "name": "bane spider",
-    "points": "56",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-bane-spider.png",
+    "points": 36,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-bane-spider.png",
     "xws": "banespider"
   },
   {
     "name": "beastman",
-    "points": "57",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-beastman.png",
+    "points": 37,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-beastman.png",
     "xws": "beastman"
   },
   {
     "name": "demon",
-    "points": "58",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-demon.png",
+    "points": 38,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-demon.png",
     "xws": "demon"
   },
   {
     "name": "dragon",
-    "points": "59",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-dragon.png",
+    "points": 39,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-dragon.png",
     "xws": "dragon"
   },
   {
     "name": "giant",
-    "points": "60",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-giant.png",
+    "points": 40,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-giant.png",
     "xws": "giant"
   },
   {
     "name": "hell hound",
-    "points": "61",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-hell-hound.png",
+    "points": 41,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-hell-hound.png",
     "xws": "hellhound"
   },
   {
     "name": "manticore",
-    "points": "62",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-manticore.png",
+    "points": 42,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-manticore.png",
     "xws": "manticore"
   },
   {
     "name": "naga",
-    "points": "63",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-naga.png",
+    "points": 43,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-naga.png",
     "xws": "naga"
   },
   {
     "name": "ogre",
-    "points": "64",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-ogre.png",
+    "points": 44,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-ogre.png",
     "xws": "ogre"
   },
   {
     "name": "razorwing",
-    "points": "65",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-razorwing.png",
+    "points": 45,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-razorwing.png",
     "xws": "razorwing"
   },
   {
     "name": "skeleton",
-    "points": "66",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-skeleton.png",
+    "points": 46,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-skeleton.png",
     "xws": "skeleton"
   },
   {
     "name": "sorcerer",
-    "points": "67",
-    "expansion": "Base Game",
-    "image": "monsters/bg-5-sorcerer.png",
+    "points": 47,
+    "expansion": "base game",
+    "image": "monsters/d1e/base-game/5/bg-5-sorcerer.png",
     "xws": "sorcerer"
   },
   {
-    "name": "bane spider",
-    "points": "68",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-bane-spider.png",
-    "xws": "banespider"
+    "name": "ferrox",
+    "points": 48,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/2/wod-2-ferrox.png",
+    "xws": "ferrox"
   },
   {
-    "name": "beastman",
-    "points": "69",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-beastman.png",
-    "xws": "beastman"
+    "name": "golem",
+    "points": 49,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/2/wod-2-golem.png",
+    "xws": "golem"
+  },
+  {
+    "name": "kobold",
+    "points": 50,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/2/wod-2-kobold.png",
+    "xws": "kobold"
+  },
+  {
+    "name": "ferrox",
+    "points": 51,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/3/wod-3-ferrox.png",
+    "xws": "ferrox"
+  },
+  {
+    "name": "golem",
+    "points": 52,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/3/wod-3-golem.png",
+    "xws": "golem"
+  },
+  {
+    "name": "kobold",
+    "points": 53,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/3/wod-3-kobold.png",
+    "xws": "kobold"
+  },
+  {
+    "name": "ferrox",
+    "points": 54,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/4/wod-4-ferrox.png",
+    "xws": "ferrox"
+  },
+  {
+    "name": "golem",
+    "points": 55,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/4/wod-4-golem.png",
+    "xws": "golem"
+  },
+  {
+    "name": "kobold",
+    "points": 56,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/4/wod-4-kobold.png",
+    "xws": "kobold"
+  },
+  {
+    "name": "ferrox",
+    "points": 57,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/5/wod-5-ferrox.png",
+    "xws": "ferrox"
+  },
+  {
+    "name": "golem",
+    "points": 58,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/5/wod-5-golem.png",
+    "xws": "golem"
+  },
+  {
+    "name": "kobold",
+    "points": 59,
+    "expansion": "well of darkness",
+    "image": "monsters/d1e/well-of-darkness/5/wod-5-kobold.png",
+    "xws": "kobold"
   },
   {
     "name": "blood ape",
-    "points": "70",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-blood-ape.png",
+    "points": 60,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/2/aod-2-blood-ape.png",
     "xws": "bloodape"
   },
   {
     "name": "chaos beast",
-    "points": "71",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-chaos-beast.png",
+    "points": 61,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/2/aod-2-chaos-beast.png",
     "xws": "chaosbeast"
   },
   {
     "name": "dark priest",
-    "points": "72",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-dark-priest.png",
+    "points": 62,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/2/aod-2-dark-priest.png",
     "xws": "darkpriest"
   },
   {
     "name": "deep elf",
-    "points": "73",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-deep-elf.png",
+    "points": 63,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/2/aod-2-deep-elf.png",
     "xws": "deepelf"
   },
   {
-    "name": "demon",
-    "points": "74",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "75",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "76",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "77",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "78",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "79",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "80",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "81",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "82",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "83",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "84",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "monsters back",
-    "points": "85",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-monsters-back.png",
-    "xws": "monstersback"
-  },
-  {
-    "name": "naga",
-    "points": "86",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "87",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "88",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "89",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "90",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "91",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
     "name": "troll",
-    "points": "92",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-troll.png",
+    "points": 64,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/2/aod-2-troll.png",
     "xws": "troll"
   },
   {
-    "name": "wendigo",
-    "points": "93",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-3-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "94",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "95",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-beastman.png",
-    "xws": "beastman"
-  },
-  {
     "name": "blood ape",
-    "points": "96",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-blood-ape.png",
+    "points": 65,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/3/aod-3-blood-ape.png",
     "xws": "bloodape"
   },
   {
     "name": "chaos beast",
-    "points": "97",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-chaos-beast.png",
+    "points": 66,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/3/aod-3-chaos-beast.png",
     "xws": "chaosbeast"
   },
   {
     "name": "dark priest",
-    "points": "98",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-dark-priest.png",
+    "points": 67,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/3/aod-3-dark-priest.png",
     "xws": "darkpriest"
   },
   {
     "name": "deep elf",
-    "points": "99",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-deep-elf.png",
+    "points": 68,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/3/aod-3-deep-elf.png",
     "xws": "deepelf"
   },
   {
-    "name": "demon",
-    "points": "100",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "101",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "102",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "103",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "104",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "105",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "106",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "107",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "108",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "109",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "110",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "monsters back",
-    "points": "111",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-monsters-back.png",
-    "xws": "monstersback"
-  },
-  {
-    "name": "naga",
-    "points": "112",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "113",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "114",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "115",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "116",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "117",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
     "name": "troll",
-    "points": "118",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-troll.png",
+    "points": 69,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/3/aod-3-troll.png",
     "xws": "troll"
   },
   {
-    "name": "wendigo",
-    "points": "119",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-4-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "120",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "121",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-beastman.png",
-    "xws": "beastman"
-  },
-  {
     "name": "blood ape",
-    "points": "122",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-blood-ape.png",
+    "points": 70,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/4/aod-4-blood-ape.png",
     "xws": "bloodape"
   },
   {
     "name": "chaos beast",
-    "points": "123",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-chaos-beast.png",
+    "points": 71,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/4/aod-4-chaos-beast.png",
     "xws": "chaosbeast"
   },
   {
     "name": "dark priest",
-    "points": "124",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-dark-priest.png",
+    "points": 72,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/4/aod-4-dark-priest.png",
     "xws": "darkpriest"
   },
   {
     "name": "deep elf",
-    "points": "125",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-deep-elf.png",
+    "points": 73,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/4/aod-4-deep-elf.png",
     "xws": "deepelf"
   },
   {
-    "name": "demon",
-    "points": "126",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "127",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "128",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "129",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "130",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "131",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "132",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "133",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "134",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "135",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "136",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "monsters back",
-    "points": "137",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-monsters-back.png",
-    "xws": "monstersback"
-  },
-  {
-    "name": "naga",
-    "points": "138",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "139",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "140",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "141",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "142",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "143",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
     "name": "troll",
-    "points": "144",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-troll.png",
+    "points": 74,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/4/aod-4-troll.png",
     "xws": "troll"
   },
   {
-    "name": "wendigo",
-    "points": "145",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-5-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "146",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "147",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-beastman.png",
-    "xws": "beastman"
-  },
-  {
     "name": "blood ape",
-    "points": "148",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-blood-ape.png",
+    "points": 75,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/5/aod-5-blood-ape.png",
     "xws": "bloodape"
   },
   {
     "name": "chaos beast",
-    "points": "149",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-chaos-beast.png",
+    "points": 76,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/5/aod-5-chaos-beast.png",
     "xws": "chaosbeast"
   },
   {
     "name": "dark priest",
-    "points": "150",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-dark-priest.png",
+    "points": 77,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/5/aod-5-dark-priest.png",
     "xws": "darkpriest"
   },
   {
     "name": "deep elf",
-    "points": "151",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-deep-elf.png",
+    "points": 78,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/5/aod-5-deep-elf.png",
     "xws": "deepelf"
   },
   {
-    "name": "demon",
-    "points": "152",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "153",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "154",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "155",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "156",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "157",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "158",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "159",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "160",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "161",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "162",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "monsters back",
-    "points": "163",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-monsters-back.png",
-    "xws": "monstersback"
-  },
-  {
-    "name": "naga",
-    "points": "164",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "165",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "166",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "167",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "168",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "169",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
     "name": "troll",
-    "points": "170",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-troll.png",
+    "points": 79,
+    "expansion": "altar of despair",
+    "image": "monsters/d1e/altar-of-despair/5/aod-5-troll.png",
     "xws": "troll"
   },
   {
-    "name": "wendigo",
-    "points": "171",
-    "expansion": "Enduring Evil",
-    "image": "monsters/ee-6-wendigo.png",
-    "xws": "wendigo"
+    "name": "copper bane spider",
+    "points": 80,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-bane-spider.png",
+    "xws": "copperbanespider"
   },
   {
-    "name": "bane spider",
-    "points": "172",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-bane-spider.png",
-    "xws": "banespider"
+    "name": "copper beastman",
+    "points": 81,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-beastman.png",
+    "xws": "copperbeastman"
   },
   {
-    "name": "beastman",
-    "points": "173",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-beastman.png",
-    "xws": "beastman"
+    "name": "copper blood ape",
+    "points": 82,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-blood-ape.png",
+    "xws": "copperbloodape"
   },
   {
-    "name": "blood ape",
-    "points": "174",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-blood-ape.png",
-    "xws": "bloodape"
+    "name": "copper chaos beast",
+    "points": 83,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-chaos-beast.png",
+    "xws": "copperchaosbeast"
   },
   {
-    "name": "chaos beast",
-    "points": "175",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-chaos-beast.png",
-    "xws": "chaosbeast"
+    "name": "copper dark priest",
+    "points": 84,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-dark-priest.png",
+    "xws": "copperdarkpriest"
   },
   {
-    "name": "dark priest",
-    "points": "176",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-dark-priest.png",
-    "xws": "darkpriest"
+    "name": "copper deep elf",
+    "points": 85,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-deep-elf.png",
+    "xws": "copperdeepelf"
   },
   {
-    "name": "deep elf",
-    "points": "177",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-deep-elf.png",
-    "xws": "deepelf"
+    "name": "copper demon",
+    "points": 86,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-demon.png",
+    "xws": "copperdemon"
   },
   {
-    "name": "demon",
-    "points": "178",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-demon.png",
-    "xws": "demon"
+    "name": "copper dragon",
+    "points": 87,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-dragon.png",
+    "xws": "copperdragon"
   },
   {
-    "name": "dragon",
-    "points": "179",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-dragon.png",
-    "xws": "dragon"
+    "name": "copper ferrox",
+    "points": 88,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-ferrox.png",
+    "xws": "copperferrox"
   },
   {
-    "name": "ferrox",
-    "points": "180",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-ferrox.png",
-    "xws": "ferrox"
+    "name": "copper giant",
+    "points": 89,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-giant.png",
+    "xws": "coppergiant"
   },
   {
-    "name": "giant",
-    "points": "181",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-giant.png",
-    "xws": "giant"
+    "name": "copper golem",
+    "points": 90,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-golem.png",
+    "xws": "coppergolem"
   },
   {
-    "name": "golem",
-    "points": "182",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-golem.png",
-    "xws": "golem"
+    "name": "copper hell hound",
+    "points": 91,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-hell-hound.png",
+    "xws": "copperhellhound"
   },
   {
-    "name": "hell hound",
-    "points": "183",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-hell-hound.png",
-    "xws": "hellhound"
+    "name": "copper ice wyrm",
+    "points": 92,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-ice-wyrm.png",
+    "xws": "coppericewyrm"
+  },
+  {
+    "name": "copper kobold",
+    "points": 93,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-kobold.png",
+    "xws": "copperkobold"
+  },
+  {
+    "name": "copper lava beetle",
+    "points": 94,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-lava-beetle.png",
+    "xws": "copperlavabeetle"
+  },
+  {
+    "name": "copper manticore",
+    "points": 95,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-manticore.png",
+    "xws": "coppermanticore"
+  },
+  {
+    "name": "copper medusa",
+    "points": 96,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-medusa.png",
+    "xws": "coppermedusa"
+  },
+  {
+    "name": "copper naga",
+    "points": 97,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-naga.png",
+    "xws": "coppernaga"
+  },
+  {
+    "name": "copper ogre",
+    "points": 98,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-ogre.png",
+    "xws": "copperogre"
+  },
+  {
+    "name": "copper razorwing",
+    "points": 99,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-razorwing.png",
+    "xws": "copperrazorwing"
+  },
+  {
+    "name": "copper shade",
+    "points": 100,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-shade.png",
+    "xws": "coppershade"
+  },
+  {
+    "name": "copper skeleton",
+    "points": 101,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-skeleton.png",
+    "xws": "copperskeleton"
+  },
+  {
+    "name": "copper sorcerer",
+    "points": 102,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-sorcerer.png",
+    "xws": "coppersorcerer"
+  },
+  {
+    "name": "copper troll",
+    "points": 103,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-troll.png",
+    "xws": "coppertroll"
+  },
+  {
+    "name": "copper wendigo",
+    "points": 104,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/copper/rtl-copper-wendigo.png",
+    "xws": "copperwendigo"
+  },
+  {
+    "name": "silver bane spider",
+    "points": 105,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-bane-spider.png",
+    "xws": "silverbanespider"
+  },
+  {
+    "name": "silver beastman",
+    "points": 106,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-beastman.png",
+    "xws": "silverbeastman"
+  },
+  {
+    "name": "silver blood ape",
+    "points": 107,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-blood-ape.png",
+    "xws": "silverbloodape"
+  },
+  {
+    "name": "silver chaos beast",
+    "points": 108,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-chaos-beast.png",
+    "xws": "silverchaosbeast"
+  },
+  {
+    "name": "silver dark priest",
+    "points": 109,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-dark-priest.png",
+    "xws": "silverdarkpriest"
+  },
+  {
+    "name": "silver deep elf",
+    "points": 110,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-deep-elf.png",
+    "xws": "silverdeepelf"
+  },
+  {
+    "name": "silver demon",
+    "points": 111,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-demon.png",
+    "xws": "silverdemon"
+  },
+  {
+    "name": "silver dragon",
+    "points": 112,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-dragon.png",
+    "xws": "silverdragon"
+  },
+  {
+    "name": "silver ferrox",
+    "points": 113,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-ferrox.png",
+    "xws": "silverferrox"
+  },
+  {
+    "name": "silver giant",
+    "points": 114,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-giant.png",
+    "xws": "silvergiant"
+  },
+  {
+    "name": "silver golem",
+    "points": 115,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-golem.png",
+    "xws": "silvergolem"
+  },
+  {
+    "name": "silver hell hound",
+    "points": 116,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-hell-hound.png",
+    "xws": "silverhellhound"
+  },
+  {
+    "name": "silver ice wyrm",
+    "points": 117,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-ice-wyrm.png",
+    "xws": "silvericewyrm"
+  },
+  {
+    "name": "silver kobold",
+    "points": 118,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-kobold.png",
+    "xws": "silverkobold"
+  },
+  {
+    "name": "silver lava beetle",
+    "points": 119,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-lava-beetle.png",
+    "xws": "silverlavabeetle"
+  },
+  {
+    "name": "silver manticore",
+    "points": 120,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-manticore.png",
+    "xws": "silvermanticore"
+  },
+  {
+    "name": "silver medusa",
+    "points": 121,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-medusa.png",
+    "xws": "silvermedusa"
+  },
+  {
+    "name": "silver naga",
+    "points": 122,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-naga.png",
+    "xws": "silvernaga"
+  },
+  {
+    "name": "silver ogre",
+    "points": 123,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-ogre.png",
+    "xws": "silverogre"
+  },
+  {
+    "name": "silver razorwing",
+    "points": 124,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-razorwing.png",
+    "xws": "silverrazorwing"
+  },
+  {
+    "name": "silver shade",
+    "points": 125,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-shade.png",
+    "xws": "silvershade"
+  },
+  {
+    "name": "silver skeleton",
+    "points": 126,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-skeleton.png",
+    "xws": "silverskeleton"
+  },
+  {
+    "name": "silver sorcerer",
+    "points": 127,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-sorcerer.png",
+    "xws": "silversorcerer"
+  },
+  {
+    "name": "silver troll",
+    "points": 128,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-troll.png",
+    "xws": "silvertroll"
+  },
+  {
+    "name": "silver wendigo",
+    "points": 129,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/silver/rtl-silver-wendigo.png",
+    "xws": "silverwendigo"
+  },
+  {
+    "name": "gold bane spider",
+    "points": 130,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-bane-spider.png",
+    "xws": "goldbanespider"
+  },
+  {
+    "name": "gold beastman",
+    "points": 131,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-beastman.png",
+    "xws": "goldbeastman"
+  },
+  {
+    "name": "gold blood ape",
+    "points": 132,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-blood-ape.png",
+    "xws": "goldbloodape"
+  },
+  {
+    "name": "gold chaos beast",
+    "points": 133,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-chaos-beast.png",
+    "xws": "goldchaosbeast"
+  },
+  {
+    "name": "gold dark priest",
+    "points": 134,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-dark-priest.png",
+    "xws": "golddarkpriest"
+  },
+  {
+    "name": "gold deep elf",
+    "points": 135,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-deep-elf.png",
+    "xws": "golddeepelf"
+  },
+  {
+    "name": "gold demon",
+    "points": 136,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-demon.png",
+    "xws": "golddemon"
+  },
+  {
+    "name": "gold dragon",
+    "points": 137,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-dragon.png",
+    "xws": "golddragon"
+  },
+  {
+    "name": "gold ferrox",
+    "points": 138,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-ferrox.png",
+    "xws": "goldferrox"
+  },
+  {
+    "name": "gold giant",
+    "points": 139,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-giant.png",
+    "xws": "goldgiant"
+  },
+  {
+    "name": "gold golem",
+    "points": 140,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-golem.png",
+    "xws": "goldgolem"
+  },
+  {
+    "name": "gold hell hound",
+    "points": 141,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-hell-hound.png",
+    "xws": "goldhellhound"
+  },
+  {
+    "name": "gold ice wyrm",
+    "points": 142,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-ice-wyrm.png",
+    "xws": "goldicewyrm"
+  },
+  {
+    "name": "gold kobold",
+    "points": 143,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-kobold.png",
+    "xws": "goldkobold"
+  },
+  {
+    "name": "gold lava beetle",
+    "points": 144,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-lava-beetle.png",
+    "xws": "goldlavabeetle"
+  },
+  {
+    "name": "gold manticore",
+    "points": 145,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-manticore.png",
+    "xws": "goldmanticore"
+  },
+  {
+    "name": "gold medusa",
+    "points": 146,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-medusa.png",
+    "xws": "goldmedusa"
+  },
+  {
+    "name": "gold naga",
+    "points": 147,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-naga.png",
+    "xws": "goldnaga"
+  },
+  {
+    "name": "gold ogre",
+    "points": 148,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-ogre.png",
+    "xws": "goldogre"
+  },
+  {
+    "name": "gold razorwing",
+    "points": 149,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-razorwing.png",
+    "xws": "goldrazorwing"
+  },
+  {
+    "name": "gold shade",
+    "points": 150,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-shade.png",
+    "xws": "goldshade"
+  },
+  {
+    "name": "gold skeleton",
+    "points": 151,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-skeleton.png",
+    "xws": "goldskeleton"
+  },
+  {
+    "name": "gold sorcerer",
+    "points": 152,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-sorcerer.png",
+    "xws": "goldsorcerer"
+  },
+  {
+    "name": "gold troll",
+    "points": 153,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-troll.png",
+    "xws": "goldtroll"
+  },
+  {
+    "name": "gold wendigo",
+    "points": 154,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/gold/rtl-gold-wendigo.png",
+    "xws": "goldwendigo"
+  },
+  {
+    "name": "diamond bane spider",
+    "points": 155,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-bane-spider.png",
+    "xws": "diamondbanespider"
+  },
+  {
+    "name": "diamond beastman",
+    "points": 156,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-beastman.png",
+    "xws": "diamondbeastman"
+  },
+  {
+    "name": "diamond blood ape",
+    "points": 157,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-blood-ape.png",
+    "xws": "diamondbloodape"
+  },
+  {
+    "name": "diamond chaos beast",
+    "points": 158,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-chaos-beast.png",
+    "xws": "diamondchaosbeast"
+  },
+  {
+    "name": "diamond dark priest",
+    "points": 159,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-dark-priest.png",
+    "xws": "diamonddarkpriest"
+  },
+  {
+    "name": "diamond deep elf",
+    "points": 160,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-deep-elf.png",
+    "xws": "diamonddeepelf"
+  },
+  {
+    "name": "diamond demon",
+    "points": 161,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-demon.png",
+    "xws": "diamonddemon"
+  },
+  {
+    "name": "diamond dragon",
+    "points": 162,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-dragon.png",
+    "xws": "diamonddragon"
+  },
+  {
+    "name": "diamond ferrox",
+    "points": 163,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-ferrox.png",
+    "xws": "diamondferrox"
+  },
+  {
+    "name": "diamond giant",
+    "points": 164,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-giant.png",
+    "xws": "diamondgiant"
+  },
+  {
+    "name": "diamond golem",
+    "points": 165,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-golem.png",
+    "xws": "diamondgolem"
+  },
+  {
+    "name": "diamond hell hound",
+    "points": 166,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-hell-hound.png",
+    "xws": "diamondhellhound"
+  },
+  {
+    "name": "diamond ice wyrm",
+    "points": 167,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-ice-wyrm.png",
+    "xws": "diamondicewyrm"
+  },
+  {
+    "name": "diamond kobold",
+    "points": 168,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-kobold.png",
+    "xws": "diamondkobold"
+  },
+  {
+    "name": "diamond lava beetle",
+    "points": 169,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-lava-beetle.png",
+    "xws": "diamondlavabeetle"
+  },
+  {
+    "name": "diamond manticore",
+    "points": 170,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-manticore.png",
+    "xws": "diamondmanticore"
+  },
+  {
+    "name": "diamond medusa",
+    "points": 171,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-medusa.png",
+    "xws": "diamondmedusa"
+  },
+  {
+    "name": "diamond naga",
+    "points": 172,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-naga.png",
+    "xws": "diamondnaga"
+  },
+  {
+    "name": "diamond ogre",
+    "points": 173,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-ogre.png",
+    "xws": "diamondogre"
+  },
+  {
+    "name": "diamond razorwing",
+    "points": 174,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-razorwing.png",
+    "xws": "diamondrazorwing"
+  },
+  {
+    "name": "diamond shade",
+    "points": 175,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-shade.png",
+    "xws": "diamondshade"
+  },
+  {
+    "name": "diamond skeleton",
+    "points": 176,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-skeleton.png",
+    "xws": "diamondskeleton"
+  },
+  {
+    "name": "diamond sorcerer",
+    "points": 177,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-sorcerer.png",
+    "xws": "diamondsorcerer"
+  },
+  {
+    "name": "diamond troll",
+    "points": 178,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-troll.png",
+    "xws": "diamondtroll"
+  },
+  {
+    "name": "diamond wendigo",
+    "points": 179,
+    "expansion": "road to legend",
+    "image": "monsters/d1e/road-to-legend/diamond/rtl-diamond-wendigo.png",
+    "xws": "diamondwendigo"
   },
   {
     "name": "ice wyrm",
-    "points": "184",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "185",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "186",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "187",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "188",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "189",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "190",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "191",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "192",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "193",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "194",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "195",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "196",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-copper-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "197",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "198",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "199",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "200",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "201",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "202",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "203",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "204",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "205",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "206",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "207",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "208",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "209",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "210",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "211",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "212",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "213",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "214",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "215",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "216",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "217",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "218",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "219",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "220",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "221",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-diamond-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "222",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "223",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "224",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "225",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "226",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "227",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "228",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "229",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "230",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "231",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "232",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "233",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "234",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "235",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "236",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "237",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "238",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "239",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "240",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "241",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "242",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "243",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "244",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "245",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "246",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-gold-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "247",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "248",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "249",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "250",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "251",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "252",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "253",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "254",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "255",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "256",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "257",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "258",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "259",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "260",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "261",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "262",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "263",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "264",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "265",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "266",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "267",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "268",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "269",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "270",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "271",
-    "expansion": "Road To Legend",
-    "image": "monsters/rtl-silver-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "272",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "273",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "274",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "275",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "276",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "277",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "278",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "279",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "280",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "281",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "282",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "283",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "284",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "285",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "286",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "287",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "288",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "289",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "290",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "291",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "292",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "293",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "294",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "295",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "296",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-copper-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "297",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "298",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "299",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "300",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "301",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "302",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "303",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "304",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "305",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "306",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "307",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "308",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "309",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "310",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "311",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "312",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "313",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "314",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "315",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "316",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "317",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "318",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "319",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "320",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "321",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-diamond-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "322",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "323",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "324",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "325",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "326",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "327",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "328",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "329",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "330",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "331",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "332",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "333",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "334",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "335",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "336",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "337",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "338",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "339",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "340",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "341",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "342",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "343",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "344",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "345",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "346",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-gold-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "bane spider",
-    "points": "347",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-bane-spider.png",
-    "xws": "banespider"
-  },
-  {
-    "name": "beastman",
-    "points": "348",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-beastman.png",
-    "xws": "beastman"
-  },
-  {
-    "name": "blood ape",
-    "points": "349",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-blood-ape.png",
-    "xws": "bloodape"
-  },
-  {
-    "name": "chaos beast",
-    "points": "350",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-chaos-beast.png",
-    "xws": "chaosbeast"
-  },
-  {
-    "name": "dark priest",
-    "points": "351",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-dark-priest.png",
-    "xws": "darkpriest"
-  },
-  {
-    "name": "deep elf",
-    "points": "352",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-deep-elf.png",
-    "xws": "deepelf"
-  },
-  {
-    "name": "demon",
-    "points": "353",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-demon.png",
-    "xws": "demon"
-  },
-  {
-    "name": "dragon",
-    "points": "354",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-dragon.png",
-    "xws": "dragon"
-  },
-  {
-    "name": "ferrox",
-    "points": "355",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-ferrox.png",
-    "xws": "ferrox"
-  },
-  {
-    "name": "giant",
-    "points": "356",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-giant.png",
-    "xws": "giant"
-  },
-  {
-    "name": "golem",
-    "points": "357",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-golem.png",
-    "xws": "golem"
-  },
-  {
-    "name": "hell hound",
-    "points": "358",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-hell-hound.png",
-    "xws": "hellhound"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "359",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-ice-wyrm.png",
-    "xws": "icewyrm"
-  },
-  {
-    "name": "kobold",
-    "points": "360",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-kobold.png",
-    "xws": "kobold"
-  },
-  {
-    "name": "lava beetle",
-    "points": "361",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-lava-beetle.png",
-    "xws": "lavabeetle"
-  },
-  {
-    "name": "manticore",
-    "points": "362",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-manticore.png",
-    "xws": "manticore"
-  },
-  {
-    "name": "medusa",
-    "points": "363",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-medusa.png",
-    "xws": "medusa"
-  },
-  {
-    "name": "naga",
-    "points": "364",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-naga.png",
-    "xws": "naga"
-  },
-  {
-    "name": "ogre",
-    "points": "365",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-ogre.png",
-    "xws": "ogre"
-  },
-  {
-    "name": "razorwing",
-    "points": "366",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-razorwing.png",
-    "xws": "razorwing"
-  },
-  {
-    "name": "shade",
-    "points": "367",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-shade.png",
-    "xws": "shade"
-  },
-  {
-    "name": "skeleton",
-    "points": "368",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-skeleton.png",
-    "xws": "skeleton"
-  },
-  {
-    "name": "sorcerer",
-    "points": "369",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-sorcerer.png",
-    "xws": "sorcerer"
-  },
-  {
-    "name": "troll",
-    "points": "370",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-troll.png",
-    "xws": "troll"
-  },
-  {
-    "name": "wendigo",
-    "points": "371",
-    "expansion": "Sea Of Blood",
-    "image": "monsters/sob-silver-wendigo.png",
-    "xws": "wendigo"
-  },
-  {
-    "name": "ice wyrm",
-    "points": "372",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-2-ice-wyrm.png",
+    "points": 180,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/2/toi-2-ice-wyrm.png",
     "xws": "icewyrm"
   },
   {
     "name": "lava beetle",
-    "points": "373",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-2-lava-beetle.png",
+    "points": 181,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/2/toi-2-lava-beetle.png",
     "xws": "lavabeetle"
   },
   {
     "name": "medusa",
-    "points": "374",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-2-medusa.png",
+    "points": 182,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/2/toi-2-medusa.png",
     "xws": "medusa"
   },
   {
     "name": "shade",
-    "points": "375",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-2-shade.png",
+    "points": 183,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/2/toi-2-shade.png",
     "xws": "shade"
   },
   {
     "name": "wendigo",
-    "points": "376",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-2-wendigo.png",
+    "points": 184,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/2/toi-2-wendigo.png",
     "xws": "wendigo"
   },
   {
     "name": "ice wyrm",
-    "points": "377",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-3-ice-wyrm.png",
+    "points": 185,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/3/toi-3-ice-wyrm.png",
     "xws": "icewyrm"
   },
   {
     "name": "lava beetle",
-    "points": "378",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-3-lava-beetle.png",
+    "points": 186,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/3/toi-3-lava-beetle.png",
     "xws": "lavabeetle"
   },
   {
     "name": "medusa",
-    "points": "379",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-3-medusa.png",
+    "points": 187,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/3/toi-3-medusa.png",
     "xws": "medusa"
   },
   {
     "name": "shade",
-    "points": "380",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-3-shade.png",
+    "points": 188,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/3/toi-3-shade.png",
     "xws": "shade"
   },
   {
     "name": "wendigo",
-    "points": "381",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-3-wendigo.png",
+    "points": 189,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/3/toi-3-wendigo.png",
     "xws": "wendigo"
   },
   {
     "name": "ice wyrm",
-    "points": "382",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-4-ice-wyrm.png",
+    "points": 190,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/4/toi-4-ice-wyrm.png",
     "xws": "icewyrm"
   },
   {
     "name": "lava beetle",
-    "points": "383",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-4-lava-beetle.png",
+    "points": 191,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/4/toi-4-lava-beetle.png",
     "xws": "lavabeetle"
   },
   {
     "name": "medusa",
-    "points": "384",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-4-medusa.png",
+    "points": 192,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/4/toi-4-medusa.png",
     "xws": "medusa"
   },
   {
     "name": "shade",
-    "points": "385",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-4-shade.png",
+    "points": 193,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/4/toi-4-shade.png",
     "xws": "shade"
   },
   {
     "name": "wendigo",
-    "points": "386",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-4-wendigo.png",
+    "points": 194,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/4/toi-4-wendigo.png",
     "xws": "wendigo"
   },
   {
     "name": "ice wyrm",
-    "points": "387",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-5-ice-wyrm.png",
+    "points": 195,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/5/toi-5-ice-wyrm.png",
     "xws": "icewyrm"
   },
   {
     "name": "lava beetle",
-    "points": "388",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-5-lava-beetle.png",
+    "points": 196,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/5/toi-5-lava-beetle.png",
     "xws": "lavabeetle"
   },
   {
     "name": "medusa",
-    "points": "389",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-5-medusa.png",
+    "points": 197,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/5/toi-5-medusa.png",
     "xws": "medusa"
   },
   {
     "name": "shade",
-    "points": "390",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-5-shade.png",
+    "points": 198,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/5/toi-5-shade.png",
     "xws": "shade"
   },
   {
     "name": "wendigo",
-    "points": "391",
-    "expansion": "Tomb Of Ice",
-    "image": "monsters/toi-5-wendigo.png",
+    "points": 199,
+    "expansion": "tomb of ice",
+    "image": "monsters/d1e/tomb-of-ice/5/toi-5-wendigo.png",
     "xws": "wendigo"
   },
   {
-    "name": "ferrox",
-    "points": "392",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-2-ferrox.png",
-    "xws": "ferrox"
+    "name": "ee bane spider",
+    "points": 200,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-bane-spider.png",
+    "xws": "eebanespider"
   },
   {
-    "name": "golem",
-    "points": "393",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-2-golem.png",
-    "xws": "golem"
+    "name": "ee beastman",
+    "points": 201,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-beastman.png",
+    "xws": "eebeastman"
   },
   {
-    "name": "kobold",
-    "points": "394",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-2-kobold.png",
-    "xws": "kobold"
+    "name": "ee blood ape",
+    "points": 202,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-blood-ape.png",
+    "xws": "eebloodape"
   },
   {
-    "name": "ferrox",
-    "points": "395",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-3-ferrox.png",
-    "xws": "ferrox"
+    "name": "ee chaos beast",
+    "points": 203,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-chaos-beast.png",
+    "xws": "eechaosbeast"
   },
   {
-    "name": "golem",
-    "points": "396",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-3-golem.png",
-    "xws": "golem"
+    "name": "ee dark priest",
+    "points": 204,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-dark-priest.png",
+    "xws": "eedarkpriest"
   },
   {
-    "name": "kobold",
-    "points": "397",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-3-kobold.png",
-    "xws": "kobold"
+    "name": "ee deep elf",
+    "points": 205,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-deep-elf.png",
+    "xws": "eedeepelf"
   },
   {
-    "name": "ferrox",
-    "points": "398",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-4-ferrox.png",
-    "xws": "ferrox"
+    "name": "ee demon",
+    "points": 206,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-demon.png",
+    "xws": "eedemon"
   },
   {
-    "name": "golem",
-    "points": "399",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-4-golem.png",
-    "xws": "golem"
+    "name": "ee dragon",
+    "points": 207,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-dragon.png",
+    "xws": "eedragon"
   },
   {
-    "name": "kobold",
-    "points": "400",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-4-kobold.png",
-    "xws": "kobold"
+    "name": "ee ferrox",
+    "points": 208,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-ferrox.png",
+    "xws": "eeferrox"
   },
   {
-    "name": "ferrox",
-    "points": "401",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-5-ferrox.png",
-    "xws": "ferrox"
+    "name": "ee giant",
+    "points": 209,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-giant.png",
+    "xws": "eegiant"
   },
   {
-    "name": "golem",
-    "points": "402",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-5-golem.png",
-    "xws": "golem"
+    "name": "ee golem",
+    "points": 210,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-golem.png",
+    "xws": "eegolem"
   },
   {
-    "name": "kobold",
-    "points": "403",
-    "expansion": "Well Of Darkness",
-    "image": "monsters/wod-5-kobold.png",
-    "xws": "kobold"
+    "name": "ee hell hound",
+    "points": 211,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-hell-hound.png",
+    "xws": "eehellhound"
+  },
+  {
+    "name": "ee ice wyrm",
+    "points": 212,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-ice-wyrm.png",
+    "xws": "eeicewyrm"
+  },
+  {
+    "name": "ee kobold",
+    "points": 213,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-kobold.png",
+    "xws": "eekobold"
+  },
+  {
+    "name": "ee lava beetle",
+    "points": 214,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-lava-beetle.png",
+    "xws": "eelavabeetle"
+  },
+  {
+    "name": "ee manticore",
+    "points": 215,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-manticore.png",
+    "xws": "eemanticore"
+  },
+  {
+    "name": "ee medusa",
+    "points": 216,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-medusa.png",
+    "xws": "eemedusa"
+  },
+  {
+    "name": "ee monsters back",
+    "points": 217,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-monsters-back.png",
+    "xws": "eemonstersback"
+  },
+  {
+    "name": "ee naga",
+    "points": 218,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-naga.png",
+    "xws": "eenaga"
+  },
+  {
+    "name": "ee ogre",
+    "points": 219,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-ogre.png",
+    "xws": "eeogre"
+  },
+  {
+    "name": "ee razorwing",
+    "points": 220,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-razorwing.png",
+    "xws": "eerazorwing"
+  },
+  {
+    "name": "ee shade",
+    "points": 221,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-shade.png",
+    "xws": "eeshade"
+  },
+  {
+    "name": "ee skeleton",
+    "points": 222,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-skeleton.png",
+    "xws": "eeskeleton"
+  },
+  {
+    "name": "ee sorcerer",
+    "points": 223,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-sorcerer.png",
+    "xws": "eesorcerer"
+  },
+  {
+    "name": "ee troll",
+    "points": 224,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-troll.png",
+    "xws": "eetroll"
+  },
+  {
+    "name": "ee wendigo",
+    "points": 225,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/3/ee-3-wendigo.png",
+    "xws": "eewendigo"
+  },
+  {
+    "name": "ee bane spider",
+    "points": 226,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-bane-spider.png",
+    "xws": "eebanespider"
+  },
+  {
+    "name": "ee beastman",
+    "points": 227,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-beastman.png",
+    "xws": "eebeastman"
+  },
+  {
+    "name": "ee blood ape",
+    "points": 228,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-blood-ape.png",
+    "xws": "eebloodape"
+  },
+  {
+    "name": "ee chaos beast",
+    "points": 229,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-chaos-beast.png",
+    "xws": "eechaosbeast"
+  },
+  {
+    "name": "ee dark priest",
+    "points": 230,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-dark-priest.png",
+    "xws": "eedarkpriest"
+  },
+  {
+    "name": "ee deep elf",
+    "points": 231,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-deep-elf.png",
+    "xws": "eedeepelf"
+  },
+  {
+    "name": "ee demon",
+    "points": 232,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-demon.png",
+    "xws": "eedemon"
+  },
+  {
+    "name": "ee dragon",
+    "points": 233,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-dragon.png",
+    "xws": "eedragon"
+  },
+  {
+    "name": "ee ferrox",
+    "points": 234,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-ferrox.png",
+    "xws": "eeferrox"
+  },
+  {
+    "name": "ee giant",
+    "points": 235,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-giant.png",
+    "xws": "eegiant"
+  },
+  {
+    "name": "ee golem",
+    "points": 236,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-golem.png",
+    "xws": "eegolem"
+  },
+  {
+    "name": "ee hell hound",
+    "points": 237,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-hell-hound.png",
+    "xws": "eehellhound"
+  },
+  {
+    "name": "ee ice wyrm",
+    "points": 238,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-ice-wyrm.png",
+    "xws": "eeicewyrm"
+  },
+  {
+    "name": "ee kobold",
+    "points": 239,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-kobold.png",
+    "xws": "eekobold"
+  },
+  {
+    "name": "ee lava beetle",
+    "points": 240,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-lava-beetle.png",
+    "xws": "eelavabeetle"
+  },
+  {
+    "name": "ee manticore",
+    "points": 241,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-manticore.png",
+    "xws": "eemanticore"
+  },
+  {
+    "name": "ee medusa",
+    "points": 242,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-medusa.png",
+    "xws": "eemedusa"
+  },
+  {
+    "name": "ee monsters back",
+    "points": 243,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-monsters-back.png",
+    "xws": "eemonstersback"
+  },
+  {
+    "name": "ee naga",
+    "points": 244,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-naga.png",
+    "xws": "eenaga"
+  },
+  {
+    "name": "ee ogre",
+    "points": 245,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-ogre.png",
+    "xws": "eeogre"
+  },
+  {
+    "name": "ee razorwing",
+    "points": 246,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-razorwing.png",
+    "xws": "eerazorwing"
+  },
+  {
+    "name": "ee shade",
+    "points": 247,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-shade.png",
+    "xws": "eeshade"
+  },
+  {
+    "name": "ee skeleton",
+    "points": 248,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-skeleton.png",
+    "xws": "eeskeleton"
+  },
+  {
+    "name": "ee sorcerer",
+    "points": 249,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-sorcerer.png",
+    "xws": "eesorcerer"
+  },
+  {
+    "name": "ee troll",
+    "points": 250,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-troll.png",
+    "xws": "eetroll"
+  },
+  {
+    "name": "ee wendigo",
+    "points": 251,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/4/ee-4-wendigo.png",
+    "xws": "eewendigo"
+  },
+  {
+    "name": "ee bane spider",
+    "points": 252,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-bane-spider.png",
+    "xws": "eebanespider"
+  },
+  {
+    "name": "ee beastman",
+    "points": 253,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-beastman.png",
+    "xws": "eebeastman"
+  },
+  {
+    "name": "ee blood ape",
+    "points": 254,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-blood-ape.png",
+    "xws": "eebloodape"
+  },
+  {
+    "name": "ee chaos beast",
+    "points": 255,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-chaos-beast.png",
+    "xws": "eechaosbeast"
+  },
+  {
+    "name": "ee dark priest",
+    "points": 256,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-dark-priest.png",
+    "xws": "eedarkpriest"
+  },
+  {
+    "name": "ee deep elf",
+    "points": 257,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-deep-elf.png",
+    "xws": "eedeepelf"
+  },
+  {
+    "name": "ee demon",
+    "points": 258,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-demon.png",
+    "xws": "eedemon"
+  },
+  {
+    "name": "ee dragon",
+    "points": 259,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-dragon.png",
+    "xws": "eedragon"
+  },
+  {
+    "name": "ee ferrox",
+    "points": 260,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-ferrox.png",
+    "xws": "eeferrox"
+  },
+  {
+    "name": "ee giant",
+    "points": 261,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-giant.png",
+    "xws": "eegiant"
+  },
+  {
+    "name": "ee golem",
+    "points": 262,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-golem.png",
+    "xws": "eegolem"
+  },
+  {
+    "name": "ee hell hound",
+    "points": 263,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-hell-hound.png",
+    "xws": "eehellhound"
+  },
+  {
+    "name": "ee ice wyrm",
+    "points": 264,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-ice-wyrm.png",
+    "xws": "eeicewyrm"
+  },
+  {
+    "name": "ee kobold",
+    "points": 265,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-kobold.png",
+    "xws": "eekobold"
+  },
+  {
+    "name": "ee lava beetle",
+    "points": 266,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-lava-beetle.png",
+    "xws": "eelavabeetle"
+  },
+  {
+    "name": "ee manticore",
+    "points": 267,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-manticore.png",
+    "xws": "eemanticore"
+  },
+  {
+    "name": "ee medusa",
+    "points": 268,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-medusa.png",
+    "xws": "eemedusa"
+  },
+  {
+    "name": "ee monsters back",
+    "points": 269,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-monsters-back.png",
+    "xws": "eemonstersback"
+  },
+  {
+    "name": "ee naga",
+    "points": 270,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-naga.png",
+    "xws": "eenaga"
+  },
+  {
+    "name": "ee ogre",
+    "points": 271,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-ogre.png",
+    "xws": "eeogre"
+  },
+  {
+    "name": "ee razorwing",
+    "points": 272,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-razorwing.png",
+    "xws": "eerazorwing"
+  },
+  {
+    "name": "ee shade",
+    "points": 273,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-shade.png",
+    "xws": "eeshade"
+  },
+  {
+    "name": "ee skeleton",
+    "points": 274,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-skeleton.png",
+    "xws": "eeskeleton"
+  },
+  {
+    "name": "ee sorcerer",
+    "points": 275,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-sorcerer.png",
+    "xws": "eesorcerer"
+  },
+  {
+    "name": "ee troll",
+    "points": 276,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-troll.png",
+    "xws": "eetroll"
+  },
+  {
+    "name": "ee wendigo",
+    "points": 277,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/5/ee-5-wendigo.png",
+    "xws": "eewendigo"
+  },
+  {
+    "name": "ee bane spider",
+    "points": 278,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-bane-spider.png",
+    "xws": "eebanespider"
+  },
+  {
+    "name": "ee beastman",
+    "points": 279,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-beastman.png",
+    "xws": "eebeastman"
+  },
+  {
+    "name": "ee blood ape",
+    "points": 280,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-blood-ape.png",
+    "xws": "eebloodape"
+  },
+  {
+    "name": "ee chaos beast",
+    "points": 281,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-chaos-beast.png",
+    "xws": "eechaosbeast"
+  },
+  {
+    "name": "ee dark priest",
+    "points": 282,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-dark-priest.png",
+    "xws": "eedarkpriest"
+  },
+  {
+    "name": "ee deep elf",
+    "points": 283,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-deep-elf.png",
+    "xws": "eedeepelf"
+  },
+  {
+    "name": "ee demon",
+    "points": 284,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-demon.png",
+    "xws": "eedemon"
+  },
+  {
+    "name": "ee dragon",
+    "points": 285,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-dragon.png",
+    "xws": "eedragon"
+  },
+  {
+    "name": "ee ferrox",
+    "points": 286,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-ferrox.png",
+    "xws": "eeferrox"
+  },
+  {
+    "name": "ee giant",
+    "points": 287,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-giant.png",
+    "xws": "eegiant"
+  },
+  {
+    "name": "ee golem",
+    "points": 288,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-golem.png",
+    "xws": "eegolem"
+  },
+  {
+    "name": "ee hell hound",
+    "points": 289,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-hell-hound.png",
+    "xws": "eehellhound"
+  },
+  {
+    "name": "ee ice wyrm",
+    "points": 290,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-ice-wyrm.png",
+    "xws": "eeicewyrm"
+  },
+  {
+    "name": "ee kobold",
+    "points": 291,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-kobold.png",
+    "xws": "eekobold"
+  },
+  {
+    "name": "ee lava beetle",
+    "points": 292,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-lava-beetle.png",
+    "xws": "eelavabeetle"
+  },
+  {
+    "name": "ee manticore",
+    "points": 293,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-manticore.png",
+    "xws": "eemanticore"
+  },
+  {
+    "name": "ee medusa",
+    "points": 294,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-medusa.png",
+    "xws": "eemedusa"
+  },
+  {
+    "name": "ee monsters back",
+    "points": 295,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-monsters-back.png",
+    "xws": "eemonstersback"
+  },
+  {
+    "name": "ee naga",
+    "points": 296,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-naga.png",
+    "xws": "eenaga"
+  },
+  {
+    "name": "ee ogre",
+    "points": 297,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-ogre.png",
+    "xws": "eeogre"
+  },
+  {
+    "name": "ee razorwing",
+    "points": 298,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-razorwing.png",
+    "xws": "eerazorwing"
+  },
+  {
+    "name": "ee shade",
+    "points": 299,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-shade.png",
+    "xws": "eeshade"
+  },
+  {
+    "name": "ee skeleton",
+    "points": 300,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-skeleton.png",
+    "xws": "eeskeleton"
+  },
+  {
+    "name": "ee sorcerer",
+    "points": 301,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-sorcerer.png",
+    "xws": "eesorcerer"
+  },
+  {
+    "name": "ee troll",
+    "points": 302,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-troll.png",
+    "xws": "eetroll"
+  },
+  {
+    "name": "ee wendigo",
+    "points": 303,
+    "expansion": "enduring evil",
+    "image": "monsters/ee/enduring-evil/6/ee-6-wendigo.png",
+    "xws": "eewendigo"
   }
 ]
